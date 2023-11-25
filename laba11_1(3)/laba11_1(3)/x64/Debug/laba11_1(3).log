@@ -1,0 +1,3 @@
+﻿  laba11_1(3).cpp
+D:\calculator\laba11_1(3)\laba11_1(3)\laba11_1(3).cpp(64,27): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  laba11_1(3).vcxproj -> D:\calculator\laba11_1(3)\x64\Debug\laba11_1(3).exe
